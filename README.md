@@ -1,5 +1,5 @@
 # Ta9sna
-weather app
+weather app made uinng Flutter
 
 - Packages:
   . flutter pub add http
